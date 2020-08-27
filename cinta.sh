@@ -15,7 +15,7 @@ cowsay -f eyes "USER" |lolcat
 echo ""
 echo $green"MASUKAN USERNAME DENGAN BENAR"
 echo $red"KALAU TIDAK TAHU USERNAMENYA HUB GW"
-echo $yellow"Whatsapp : 085752481601"
+echo $yellow"Whatsapp : 08575293701"
 echo ""
 echo $cyan"##############<USERNAME>###################"
 read -p"Masukan Username: " us
